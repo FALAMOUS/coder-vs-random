@@ -1,0 +1,8 @@
+object FormMain: TFormMain
+  Left = 259
+  Height = 240
+  Top = 268
+  Width = 320
+  Caption = 'FormMain'
+  LCLVersion = '1.6.0.4'
+end
